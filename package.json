@@ -37,7 +37,7 @@
     "react-scripts": "5.0.1",
     "react-window": "^1.8.9",
     "web-vitals": "^2.1.0",
-    "xrpl": "^2.11.0",
+    "xrpl": "^3.0.0",
     "xumm": "^1.6.1",
     "zod": "^3.21.4",
     "zustand": "^4.3.8"
